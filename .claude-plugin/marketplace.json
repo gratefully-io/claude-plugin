@@ -1,0 +1,14 @@
+{
+  "name": "gratefully",
+  "owner": { "name": "Gratefully", "url": "https://gratefully.io" },
+  "description": "Gratefully's Claude plugin: donor intelligence for nonprofit fundraisers.",
+  "plugins": [
+    {
+      "name": "gratefully",
+      "source": "./",
+      "description": "Gratefully connector plus skills for donor meeting prep, lapsed-donor win-back and year-end appeals.",
+      "category": "productivity",
+      "tags": ["fundraising", "nonprofit", "donors"]
+    }
+  ]
+}

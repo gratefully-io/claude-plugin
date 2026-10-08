@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "gratefully": {
+      "type": "http",
+      "url": "https://app.gratefully.io/mcp"
+    }
+  }
+}
