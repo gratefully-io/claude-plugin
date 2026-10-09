@@ -3,9 +3,19 @@
   "displayName": "Gratefully",
   "version": "0.1.0",
   "description": "Gratefully's donor intelligence in Claude: the donors who matter today and why, with cited answers, plus ready-made workflows for donor meeting prep, lapsed-donor win-back and year-end appeals.",
-  "author": { "name": "Gratefully", "url": "https://gratefully.io" },
+  "author": {
+    "name": "Gratefully",
+    "url": "https://gratefully.io"
+  },
   "homepage": "https://gratefully.io",
+  "privacyPolicyUrl": "https://gratefully.io/privacy-policy",
   "repository": "https://github.com/gratefully-io/claude-plugin",
   "license": "MIT",
-  "keywords": ["fundraising", "nonprofit", "donors", "development", "donor retention"]
+  "keywords": [
+    "fundraising",
+    "nonprofit",
+    "donors",
+    "development",
+    "donor retention"
+  ]
 }
